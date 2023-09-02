@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/HRS8/HRS8/blob/main/Pixaloop_02_09_2023_16_15_51_9280000.gif" alt="HARSHA-HRS8-Gif" style="border-radius: 50px;">
+<img src="https://github.com/HRS8/HRS8/blob/main/Pixaloop_02_09_2023_16_15_51_9280000.gif" alt="HARSHA-HRS8-Gif" sync bottom="10">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="50" height="50"/>Heyyy!</h1>
